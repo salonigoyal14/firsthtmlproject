@@ -1,0 +1,22 @@
+
+body{
+    background-color: powderblue;
+}
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color:white;
+    border-width:3px;
+    width: 3%;
+
+}
+h1{
+    color: 0F4C75;
+}
+h3{
+    color: 0F4C75;
+}
+h2{
+    color: 0F4C75;
+}
